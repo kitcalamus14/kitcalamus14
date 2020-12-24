@@ -5,8 +5,17 @@
 
 ### INDEX
 #### Simple Series
-##### This part of the portfolio mainly covers the most easy and general uses of machine learning techniques (mostly on Iris dataset). While keeping things simple, I will attempted to makes the realistic and useful coding (eg. to retrieve the iris dataset from uci repository instead of loading it from sklearn package). Furthermore, at least 1 parameter tuning will be used apart from the default one and discussion is included. These codes will served as the reference in the following series where I implement a more complex method and with more parameter and hyperparameter tuning using various complex datasets.
+##### This part of the portfolio mainly covers the most easy and general uses of machine learning techniques (mostly on Iris dataset). While keeping things simple, I will attempted to makes the realistic and useful coding (eg. to retrieve the iris dataset from uci repository instead of loading it from sklearn package). Furthermore, at least 1 parameter tuning will be used apart from the default one and discussion is included. These codes will serve as the reference in the following series where I implement a more complex method and with more parameter and hyperparameter tuning using various complex datasets.
+#### Classification
 #### 1. [Naive Bayes on Iris Dataset](https://github.com/kitcalamus14/Simple-Naive-Bayes/blob/master/NB%20iris-checkpoint.ipynb)
+#### 2. Logistic Regression on Iris Dataset
+#### . K Nearest Neighbour on Iris Dataset
+#### . K Means Clustering on Iris Dataset  #####(Click in if you have been taught that K-Means is for unsupervised learning)
+#### . Support Vector Machines on Iris Dataset
+#### . Decision Tree
+#### . Random Forest on Iris Dataset
+#### . Neural Networks on Iris Dataset
+
 
 
 <!--
