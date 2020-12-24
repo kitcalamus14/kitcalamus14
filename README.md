@@ -2,7 +2,7 @@
 ### I'm Chun Kit Tan, a Data Scientist (student maybe?) from Malaysia.
 ### After several years of study, freelancing, and self-learning, I think it's time for me to create my own repository to share and showcase my knowledge
 ### I will be consistently adding project on both small and large scale, which may also includes some I develop and update continuously in a longer timeframe
-### Here is my first project (https://github.com/kitcalamus14/Simple-Naive-Bayes/blob/master/NB%20iris-checkpoint.ipynb)
+### Here is my first project [Naive Bayes on Iris Dataset](https://github.com/kitcalamus14/Simple-Naive-Bayes/blob/master/NB%20iris-checkpoint.ipynb)
 
 
 <!--
