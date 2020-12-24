@@ -6,7 +6,7 @@
 ### INDEX
 #### Simple Series
 ##### This part of the portfolio mainly covers the most easy and general uses of machine learning techniques (mostly on Iris dataset). While keeping things simple, I will attempted to makes the realistic and useful coding (eg. to retrieve the iris dataset from uci repository instead of loading it from sklearn package). Furthermore, at least 1 parameter tuning will be used apart from the default one and discussion is included
-#### 1. [Naive Bayes on Iris Dataset](https://github.com/kitcalamus14/Simple-Naive-Bayes/blob/master/NB%20iris-checkpoint.ipynb){:target="_blank" rel="noopener"}
+#### 1. [Naive Bayes on Iris Dataset](https://github.com/kitcalamus14/Simple-Naive-Bayes/blob/master/NB%20iris-checkpoint.ipynb)
 
 
 <!--
