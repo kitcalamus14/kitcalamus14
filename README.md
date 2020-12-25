@@ -9,7 +9,7 @@
 #### Classification
 #### 1. [Naive Bayes on Iris Dataset](https://github.com/kitcalamus14/Simple-Naive-Bayes/blob/master/NB%20iris-checkpoint.ipynb)
 #### 2. [Logistic Regression on Iris Dataset](https://github.com/kitcalamus14/Logistic-Regression-on-Iris/blob/main/Logistic%20Regression%20Iris.ipynb)
-#### . K Nearest Neighbour on Iris Dataset
+#### 3. [K Nearest Neighbour on Iris Dataset](https://github.com/kitcalamus14/K-Nearest-Neighbor-on-Iris-Dataset/blob/main/K-Nearest%20Neighbour%20on%20Iris.ipynb)
 #### . K Means Clustering on Iris Dataset (Click in if you have been taught that K-Means is for unsupervised learning)
 #### . Support Vector Machines on Iris Dataset
 #### . Decision Tree
