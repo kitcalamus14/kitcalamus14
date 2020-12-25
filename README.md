@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### I'm Chun Kit Tan, a Data Scientist (student maybe?) from Malaysia.
-### After years of study, working (mostly freelancing), and self-learning, I think it's time for me to create my own repository to share and showcase my knowledge
+### After years of study, working (mostly freelancing), and self-learning, I think it's time for me to create my own repository to save, share and showcase my knowledge
 ### I will be consistently adding project on both small and large scale, which may also include some I develop and update continuously in a longer timeframe
 
 ### INDEX
@@ -16,6 +16,11 @@
 #### . Random Forest on Iris Dataset
 #### . Neural Networks on Iris Dataset
 
+#### Technical Series
+#### Instead of specifying on the uses of certain ML method, this series focus on some technical aspect that could be part of one or some ML learning method. Furthermore, I will also includes and study any knowledge and coding that couldn't be useful on its on, but rather a component as part of the data processing pipeline (anything from ETL to Data Visualization)
+
+#### . Dimensionality Reduction for Data Visualization purposes
+#### . Methods that are capable of batch processing
 
 
 <!--
