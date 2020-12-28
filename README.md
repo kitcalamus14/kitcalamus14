@@ -10,7 +10,7 @@
 #### 2. [Logistic Regression on Iris Dataset](https://github.com/kitcalamus14/Logistic-Regression-on-Iris/blob/main/Logistic%20Regression%20Iris.ipynb)
 #### 3. [K Nearest Neighbour on Iris Dataset](https://github.com/kitcalamus14/K-Nearest-Neighbor-on-Iris-Dataset/blob/main/K-Nearest%20Neighbour%20on%20Iris.ipynb)
 #### 4. [Support Vector Machines on Iris Dataset](https://github.com/kitcalamus14/Support-Vector-Machine-on-Iris-Dataset/blob/main/SVM.ipynb)
-#### 5. [Decision Tree](https://github.com/kitcalamus14/Decision-Tree-on-Iris-Dataset/blob/main/Decision%20Tree%20on%20Iris.ipynb)
+#### 5. [Decision Tree on Iris Dataset](https://github.com/kitcalamus14/Decision-Tree-on-Iris-Dataset/blob/main/Decision%20Tree%20on%20Iris.ipynb)
 #### 6. [Random Forest on Iris Dataset](https://github.com/kitcalamus14/Random-Forest-on-Iris-Dataset/blob/main/Random%20Forest%20on%20Iris.ipynb)
 #### 7. [Neural Networks on Iris Dataset](https://github.com/kitcalamus14/Neural-Network-on-Iris-Dataset/blob/main/Neural%20Network%20on%20Iris%20Dataset.ipynb)
 #### . K Means Clustering on Iris Dataset (Click in if you have been taught that K-Means is for unsupervised learning)
