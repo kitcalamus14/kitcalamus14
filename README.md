@@ -9,18 +9,22 @@
 #### 1. [Naive Bayes on Iris Dataset](https://github.com/kitcalamus14/Simple-Naive-Bayes/blob/master/NB%20iris-checkpoint.ipynb)
 #### 2. [Logistic Regression on Iris Dataset](https://github.com/kitcalamus14/Logistic-Regression-on-Iris/blob/main/Logistic%20Regression%20Iris.ipynb)
 #### 3. [K Nearest Neighbour on Iris Dataset](https://github.com/kitcalamus14/K-Nearest-Neighbor-on-Iris-Dataset/blob/main/K-Nearest%20Neighbour%20on%20Iris.ipynb)
-#### . K Means Clustering on Iris Dataset (Click in if you have been taught that K-Means is for unsupervised learning)
-#### . Support Vector Machines on Iris Dataset
+#### . [Support Vector Machines on Iris Dataset](https://github.com/kitcalamus14/Support-Vector-Machine-on-Iris-Dataset/blob/main/SVM.ipynb)
 #### . Decision Tree
 #### . Random Forest on Iris Dataset
 #### . Neural Networks on Iris Dataset
+#### . K Means Clustering on Iris Dataset (Click in if you have been taught that K-Means is for unsupervised learning)
 
 #### Technical Series
 #### Instead of specifying on the uses of certain ML method, this series focus on some technical aspect that could be part of one or some ML learning method. Furthermore, I will also includes and study any knowledge and coding that couldn't be useful on its on, but rather a component as part of the data processing pipeline (anything from ETL to Data Visualization)
 
+#### . Small talk: The differences between various ML methods
 #### . Dimensionality Reduction for Data Visualization purpose
 #### . Methods that are capable of batch processing
 
+#### Project Series
+#### . Image to text recognition from scrap
+#### . Do Politician speaks to win or speaks to serve?: A Descriptive Analytics aided by Machine Learning Algorithm.
 
 <!--
 **kitcalamus14/kitcalamus14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
