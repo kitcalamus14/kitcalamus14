@@ -17,9 +17,10 @@
 #### Technical Series
 #### Instead of specifying on the uses of certain ML method, this series focus on some technical aspect that could be part of one or some ML learning method. Furthermore, I will also includes and study any knowledge and coding that couldn't be useful on its on, but rather a component as part of the data processing pipeline (anything from ETL to Data Visualization)
 
+#### 1. [Methods that are capable of batch processing](https://github.com/kitcalamus14/ML-Methods-Capable-to-Batch-Processing/blob/main/ML%20Methods%20for%20Batch%20Processing.ipynb)
 #### . Small talk: The differences between various ML methods
 #### . Dimensionality Reduction for Data Visualization purpose
-#### . Methods that are capable of batch processing
+
 
 #### Project Series
 #### . Image to text recognition from scrap
