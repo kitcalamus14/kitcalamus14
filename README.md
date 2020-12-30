@@ -21,18 +21,18 @@ This part of the portfolio mainly covers the most easy and general uses of machi
 8. [Tensorflow's ANN on Iris Dataset](https://github.com/kitcalamus14/Tensorflow-s-Neural-Network-on-Iris-Dataset/blob/main/Tensorflow%20Neural%20Network%20on%20Iris%20Dataset.ipynb)
 
 ### <ins>Project Series</ins>
-. Image to text recognition from scrap.
-. Do Politician speaks to win or speaks to serve?: A Descriptive Analytics aided by Machine Learning Algorithm.
+. Image to text recognition from scrap.  
+. Do Politician speaks to win or speaks to serve?: A Descriptive Analytics aided by Machine Learning Algorithm.  
 
 
 ### <ins>Technical Series</ins>
 Instead of specifying on the uses of certain ML method, this series focus on some technical aspect that could be part of one or some ML learning method or part of a data processing pipline, which means anything technical-oriented between ETL and Data Visualization will be included in this series
 
-1. [Methods that are capable of batch processing](https://github.com/kitcalamus14/ML-Methods-Capable-to-Batch-Processing/blob/main/MLs%20and%20Batch%20Processing.ipynb)
-. Small talk: The differences between various ML methods
-. Dimensionality Reduction for Data Visualization purpose
-. Data Transformation and it's pupose and usage
-. Complex Data Pivotting using Python Pandas
+1. [Methods that are capable of batch processing](https://github.com/kitcalamus14/ML-Methods-Capable-to-Batch-Processing/blob/main/MLs%20and%20Batch%20Processing.ipynb)  
+. Small talk: The differences between various ML methods  
+. Dimensionality Reduction for Data Visualization purpose  
+. Data Transformation and it's pupose and usage  
+. Complex Data Pivotting using Python Pandas  
 
 
 
