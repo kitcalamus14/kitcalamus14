@@ -7,8 +7,7 @@ Please contact me on [Linkedin](https://www.linkedin.com/in/chun-kit-tan-b137471
 
 ---
 
-### Projects:<br/>
-Long and complex projects.<br/>
+### Projects:
 #### <ins>Simple Series</ins>
 This part of the portfolio mainly covers the most easy and general uses of machine learning techniques (mostly on Iris dataset). While keeping things simple, I attempted to code it as practical as possible (eg. to retrieve the iris dataset from uci repository instead of loading it from sklearn package). Furthermore, at least 1 parameter tuning will be used apart from the default one and discussion is included. These codes will serve as the reference in the following series where I implement a more complex method and with more parameter and hyperparameter tuning using various complex datasets.<br/>
 1. [Naive Bayes on Iris Dataset](https://github.com/kitcalamus14/Simple-Naive-Bayes/blob/master/NB%20iris-checkpoint.ipynb)<br/>
@@ -21,6 +20,7 @@ This part of the portfolio mainly covers the most easy and general uses of machi
 8. [Tensorflow's ANN on Iris Dataset](https://github.com/kitcalamus14/Tensorflow-s-Neural-Network-on-Iris-Dataset/blob/main/Tensorflow%20Neural%20Network%20on%20Iris%20Dataset.ipynb)<br/>
 
 #### <ins>Project Series</ins>
+Larger project that requires weeks/months of works, in which I contribute partly and slowly<br/>
 1. Image to text recognition from scrap.  
 2. Do Politician speaks to win or speaks to serve?: A Descriptive Analytics aided by Machine Learning Algorithm.  
 
