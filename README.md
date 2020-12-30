@@ -3,7 +3,7 @@ I created this repository to save, share, and show case some of my data science 
 Amongst the projects, I divided it into multiple series, in which some are short and simple while other requires longer timeframe of delication and learning. Also, I included some technique-oriented project which focuses on sharing particular method or skill.
 I will be consistently adding project on both small and large scale, which may also include some I develop and update continuously in a longer timeframe.
 
-Please contact me on Linkedit if you think my skill could assist your company/project in any meaningful way.
+Please contact me on Linkedit if you are looking to hire a data scientist.
 
 ---
 
