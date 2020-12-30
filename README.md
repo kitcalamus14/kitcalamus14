@@ -20,10 +20,11 @@
 #### 1. [Methods that are capable of batch processing](https://github.com/kitcalamus14/ML-Methods-Capable-to-Batch-Processing/blob/main/MLs%20and%20Batch%20Processing.ipynb)
 #### . Small talk: The differences between various ML methods
 #### . Dimensionality Reduction for Data Visualization purpose
-
+#### . Data Transformation and it's pupose and usage
+#### . Complex Data Pivotting using Python Pandas
 
 #### Project Series
-#### . Image to text recognition from scrap
+#### . Image to text recognition from scrap.
 #### . Do Politician speaks to win or speaks to serve?: A Descriptive Analytics aided by Machine Learning Algorithm.
 
 <!--
