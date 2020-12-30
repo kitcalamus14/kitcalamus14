@@ -4,7 +4,8 @@
 ### I will be consistently adding project on both small and large scale, which may also include some I develop and update continuously in a longer timeframe
 
 ### INDEX
-#### Simple Series
+<details>
+<summary> Simple Series </summary>
 ##### This part of the portfolio mainly covers the most easy and general uses of machine learning techniques (mostly on Iris dataset). While keeping things simple, I will attempted to code it as practical as possible (eg. to retrieve the iris dataset from uci repository instead of loading it from sklearn package). Furthermore, at least 1 parameter tuning will be used apart from the default one and discussion is included. These codes will serve as the reference in the following series where I implement a more complex method and with more parameter and hyperparameter tuning using various complex datasets.
 #### 1. [Naive Bayes on Iris Dataset](https://github.com/kitcalamus14/Simple-Naive-Bayes/blob/master/NB%20iris-checkpoint.ipynb)
 #### 2. [Logistic Regression on Iris Dataset](https://github.com/kitcalamus14/Logistic-Regression-on-Iris/blob/main/Logistic%20Regression%20Iris.ipynb)
@@ -14,6 +15,7 @@
 #### 6. [Random Forest on Iris Dataset](https://github.com/kitcalamus14/Random-Forest-on-Iris-Dataset/blob/main/Random%20Forest%20on%20Iris.ipynb)
 #### 7. [Neural Networks on Iris Dataset](https://github.com/kitcalamus14/Neural-Network-on-Iris-Dataset/blob/main/Neural%20Network%20on%20Iris%20Dataset.ipynb)
 #### 8. [Tensorflow's ANN on Iris Dataset](https://github.com/kitcalamus14/Tensorflow-s-Neural-Network-on-Iris-Dataset/blob/main/Tensorflow%20Neural%20Network%20on%20Iris%20Dataset.ipynb)
+</details>
 #### Technical Series
 #### Instead of specifying on the uses of certain ML method, this series focus on some technical aspect that could be part of one or some ML learning method. Furthermore, I will also includes and study any knowledge and coding that couldn't be useful on its on, but rather a component as part of the data processing pipeline (anything from ETL to Data Visualization)
 
