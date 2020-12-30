@@ -28,11 +28,11 @@ This part of the portfolio mainly covers the most easy and general uses of machi
 ### <ins>Technical Series</ins>
 Instead of specifying on the uses of certain ML method, this series focus on some technical aspect that could be part of one or some ML learning method or part of a data processing pipline, which means anything technical-oriented between ETL and Data Visualization will be included in this series
 
-1. [Methods that are capable of batch processing](https://github.com/kitcalamus14/ML-Methods-Capable-to-Batch-Processing/blob/main/MLs%20and%20Batch%20Processing.ipynb)  
-. Small talk: The differences between various ML methods  
-. Dimensionality Reduction for Data Visualization purpose  
-. Data Transformation and it's pupose and usage  
-. Complex Data Pivotting using Python Pandas  
+1. [Methods that are capable of batch processing](https://github.com/kitcalamus14/ML-Methods-Capable-to-Batch-Processing/blob/main/MLs%20and%20Batch%20Processing.ipynb)<br/>
+. Small talk: The differences between various ML methods<br/>
+. Dimensionality Reduction for Data Visualization purpose<br/>
+. Data Transformation and it's pupose and usage<br/>
+. Complex Data Pivotting using Python Pandas<br/>
 
 
 
