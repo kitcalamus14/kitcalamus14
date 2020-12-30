@@ -1,8 +1,3 @@
-Hi there 👋
-I'm Chun Kit Tan, a Data Scientist (student maybe?) from Malaysia.
-After years of study, working (mostly freelancing), and self-learning, I think it's time for me to create my own repository to save, share and showcase my knowledge
-
-
 Hi There, I'm Chun Kit Tan, a Data Scientist (student maybe?) from Malaysia.
 I created this repository to save, share, and show case some of my data science related projects, knowledge, and techniques.
 Amongst the projects, I divided it into multiple series, in which some are short and simple while other requires longer timeframe of delication and learning. Also, I included some technique-oriented project which focuses on sharing particular method or skill.
@@ -12,7 +7,7 @@ Please contact me on Linkedit if you think my skill could assist your company/pr
 
 ---
 
-### INDEX
+#### Projects:
 
 Simple Series<br> This part of the portfolio mainly covers the most easy and general uses of machine learning techniques (mostly on Iris dataset). While keeping things simple, I will attempted to code it as practical as possible (eg. to retrieve the iris dataset from uci repository instead of loading it from sklearn package). Furthermore, at least 1 parameter tuning will be used apart from the default one and discussion is included. These codes will serve as the reference in the following series where I implement a more complex method and with more parameter and hyperparameter tuning using various complex datasets.
 1. [Naive Bayes on Iris Dataset](https://github.com/kitcalamus14/Simple-Naive-Bayes/blob/master/NB%20iris-checkpoint.ipynb)<br/>
