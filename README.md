@@ -9,7 +9,7 @@ Please contact me on [Linkedin](https://www.linkedin.com/in/chun-kit-tan-b137471
 
 ### Projects:
 
-Simple Series<br> 
+#### Simple Series<br> 
 This part of the portfolio mainly covers the most easy and general uses of machine learning techniques (mostly on Iris dataset). While keeping things simple, I will attempted to code it as practical as possible (eg. to retrieve the iris dataset from uci repository instead of loading it from sklearn package). Furthermore, at least 1 parameter tuning will be used apart from the default one and discussion is included. These codes will serve as the reference in the following series where I implement a more complex method and with more parameter and hyperparameter tuning using various complex datasets.<br/>
 1. [Naive Bayes on Iris Dataset](https://github.com/kitcalamus14/Simple-Naive-Bayes/blob/master/NB%20iris-checkpoint.ipynb)<br/>
 2. [Logistic Regression on Iris Dataset](https://github.com/kitcalamus14/Logistic-Regression-on-Iris/blob/main/Logistic%20Regression%20Iris.ipynb)<br/>
