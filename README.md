@@ -2,7 +2,7 @@ Hi There, I'm Chun Kit Tan, a Data Scientist (student maybe?) from Malaysia.
 I created this repository to save, share, and show case some of my data science related projects, knowledge, and techniques.
 Amongst the projects, I divided it into multiple series, in which some are short and simple while other requires longer timeframe of delication and learning. Also, I included some technique-oriented project which focuses on sharing particular method or skill.
 I will be consistently adding project on both small and large scale, which may also include some I develop and update continuously in a longer timeframe.
-If there is no embeded link in the project index, that means it's under work, please come back later =D.
+If there is no embeded link in the project index, that means it's under work, please come back later =D.<br/>
 Please contact me on [Linkedin](https://www.linkedin.com/in/chun-kit-tan-b13747151/) if you are looking to hire a data scientist.
 
 ---
