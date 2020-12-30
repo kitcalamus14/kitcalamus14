@@ -1,7 +1,7 @@
-### Hi there 👋
-### I'm Chun Kit Tan, a Data Scientist (student maybe?) from Malaysia.
-### After years of study, working (mostly freelancing), and self-learning, I think it's time for me to create my own repository to save, share and showcase my knowledge
-### I will be consistently adding project on both small and large scale, which may also include some I develop and update continuously in a longer timeframe
+Hi there 👋
+I'm Chun Kit Tan, a Data Scientist (student maybe?) from Malaysia.
+After years of study, working (mostly freelancing), and self-learning, I think it's time for me to create my own repository to save, share and showcase my knowledge
+I will be consistently adding project on both small and large scale, which may also include some I develop and update continuously in a longer timeframe
 
 ---
 ### INDEX
