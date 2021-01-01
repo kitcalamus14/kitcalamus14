@@ -35,6 +35,14 @@ Instead of specifying on the uses of certain ML method, this series focus on som
 5. Complex Data Pivotting using Python Pandas<br/>
 
 
+#### <ins>Tensorflow / Keras Series</ins>
+Tensorflow and Keras on its own, is huge enough to talk about as a series. This series look into various ML questions that can be answer through the implementation of tf and Keras. With that in mind, this series will focus on large and complex data that challenge the conventional ML techniques, whicih may includes image / video recognition, and text mining.
+
+#### <ins>Unboxing Series</ins>
+Instead of adopting the readily available package for machine learning, this series intended to build machine learning algorithm from bottom up. The purpose is to learn and understand the complex mathematical methods behind the method as well as reduce the dependencies.
+
+
+
 
 <!--
 **kitcalamus14/kitcalamus14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
