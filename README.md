@@ -29,8 +29,8 @@ Larger project that requires weeks/months of works, in which I contribute partly
 Instead of specifying on the uses of certain ML method, this series focus on some technical aspect that could be part of one or some ML learning method or part of a data processing pipline, which means anything technical-oriented between ETL and Data Visualization will be included in this series
 
 1. [Methods that are capable of batch processing](https://github.com/kitcalamus14/ML-Methods-Capable-to-Batch-Processing/blob/main/MLs%20and%20Batch%20Processing.ipynb)<br/>
-2. Small talk: The differences between various ML methods<br/>
-3. Dimensionality Reduction for Data Visualization purpose<br/>
+2. [Dimensionality Reduction for Data Visualization purpose](https://github.com/kitcalamus14/Dimensionality-Reduction-For-Data-Visualization/blob/main/DRforDV.ipynb)<br/>
+3. Small talk: The differences between various ML methods<br/>
 4. Data Transformation and it's pupose and usage<br/>
 5. Complex Data Pivotting using Python Pandas<br/>
 
