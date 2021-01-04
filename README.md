@@ -24,6 +24,8 @@ Larger project that requires weeks/months of works, in which I contribute partly
 1. Image to text recognition from scrap.  
 2. Do Politician speaks to win or speaks to serve?: A Descriptive Analytics aided by Machine Learning Algorithm.  
 
+#### <ins>Publication Formatted Series</ins>
+Similar to Project Series but formatted according to certain publisher requirements.
 
 #### <ins>Technical Series</ins>
 Instead of specifying on the uses of certain ML method, this series focus on some technical aspect that could be part of one or some ML learning method or part of a data processing pipline, which means anything technical-oriented between ETL and Data Visualization will be included in this series
