@@ -26,6 +26,8 @@ Larger project that requires weeks/months of works, in which I contribute partly
 
 #### <ins>Publication Formatted Series</ins>
 Similar to Project Series but formatted according to certain publisher requirements.
+1. [(Editorial Reviewing, will update link once published)K Means Clustering on Customer Profiling Using LRFMP Model]
+2. [(Unpublished) Quantitative Systematic Literature Review Using Text Mining and Latent Dirichlet Allocation Using Orange](https://github.com/kitcalamus14/Text-Mining-and-Latent-Dirichlet-Allocation-Using-Orange/blob/main/Current%20State-of-the-art%20of%20Research%20in%20Data%20Governance%20(Revised)%20Tan%20Chun%20Kit.pdf)
 
 #### <ins>Technical Series</ins>
 Instead of specifying on the uses of certain ML method, this series focus on some technical aspect that could be part of one or some ML learning method or part of a data processing pipline, which means anything technical-oriented between ETL and Data Visualization will be included in this series
