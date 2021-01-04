@@ -21,13 +21,15 @@ This part of the portfolio mainly covers the most easy and general uses of machi
 
 #### <ins>Project Series</ins>
 Larger project that requires weeks/months of works, in which I contribute partly and slowly<br/>
-1. Image to text recognition from scrap.  
-2. Do Politician speaks to win or speaks to serve?: A Descriptive Analytics aided by Machine Learning Algorithm.  
+1. [Google Search Scrapper](https://github.com/kitcalamus14/Google-Scrapper/blob/main/Scrapper.ipynb)
+2. Image to text recognition from scrap.  
+3. Do Politician speaks to win or speaks to serve?: A Descriptive Analytics aided by Machine Learning Algorithm.  
 
 #### <ins>Publication Formatted Series</ins>
 Similar to Project Series but formatted according to certain publisher requirements.
 1. (Publisher Editorial Reviewing, will update link soon) K Means Clustering on Customer Profiling Using LRFMP Model
 2. [(Unpublished) Quantitative Systematic Literature Review Using Text Mining and Latent Dirichlet Allocation Using Orange](https://github.com/kitcalamus14/Text-Mining-and-Latent-Dirichlet-Allocation-Using-Orange/blob/main/Current%20State-of-the-art%20of%20Research%20in%20Data%20Governance%20(Revised)%20Tan%20Chun%20Kit.pdf)
+3. [(Unpublished) Hadoop Parrellel Processing Comparison: Hadoop MapReduce vs Pig](https://github.com/kitcalamus14/Hadoop-MapReduce-and-Pig/blob/main/Capabilities%20Hadoop%20F2.pdf)
 
 #### <ins>Technical Series</ins>
 Instead of specifying on the uses of certain ML method, this series focus on some technical aspect that could be part of one or some ML learning method or part of a data processing pipline, which means anything technical-oriented between ETL and Data Visualization will be included in this series
