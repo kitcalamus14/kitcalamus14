@@ -20,13 +20,13 @@ This part of the portfolio mainly covers the most easy and general uses of machi
 8. [Tensorflow's ANN on Iris Dataset](https://github.com/kitcalamus14/Tensorflow-s-Neural-Network-on-Iris-Dataset/blob/main/Tensorflow%20Neural%20Network%20on%20Iris%20Dataset.ipynb)<br/>
 
 #### <ins>Project Series</ins>
-Larger project that requires weeks/months of works, in which I contribute partly and slowly. Unlike Publication Formatted Series, this series contains only codings and markdown file. Please let me know if you are looking for co-author in ML topics, or interest in sponsoring my unpublished articles<br/>
+Larger project that requires weeks/months of works, in which I contribute partly and slowly. Unlike Publication Formatted Series, this series contains only codings and markdown file. <br/>
 1. [Google Search Scrapper](https://github.com/kitcalamus14/Google-Scrapper/blob/main/Scrapper.ipynb)
 3. Image to text recognition from scrap.  
 4. Do Politician speaks to win or speaks to serve?: A Descriptive Analytics aided by Machine Learning Algorithm. 
 
 #### <ins>Publication / Assignment Formatted Series</ins>
-Similar to Project Series but formatted according to certain publisher requirements, included writing part such as literature review, methodology, result etc.
+Similar to Project Series but formatted according to certain publisher requirements, included writing part such as literature review, methodology, result etc. Please contact me at [Linkedin](https://www.linkedin.com/in/chun-kit-tan-b13747151/) if you are looking for co-author in your ML topics, or interest in sponsoring my unpublished articles
 1. (Publisher Editorial Reviewing, will update link soon) K Means Clustering on Customer Profiling Using LRFMP Model
 2. [(Unpublished) Quantitative Systematic Literature Review Using Text Mining and Latent Dirichlet Allocation Using Orange](https://github.com/kitcalamus14/Text-Mining-and-Latent-Dirichlet-Allocation-Using-Orange/blob/main/Current%20State-of-the-art%20of%20Research%20in%20Data%20Governance%20(Revised)%20Tan%20Chun%20Kit.pdf)
 3. [(Unpublished) Hadoop Parrellel Processing Comparison: Hadoop MapReduce vs Pig](https://github.com/kitcalamus14/Hadoop-MapReduce-and-Pig/blob/main/Capabilities%20Hadoop%20F2.pdf)
