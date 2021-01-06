@@ -20,7 +20,7 @@ This part of the portfolio mainly covers the most easy and general uses of machi
 8. [Tensorflow's ANN on Iris Dataset](https://github.com/kitcalamus14/Tensorflow-s-Neural-Network-on-Iris-Dataset/blob/main/Tensorflow%20Neural%20Network%20on%20Iris%20Dataset.ipynb)<br/>
 
 #### <ins>Project Series</ins>
-Larger project that requires weeks/months of works, in which I contribute partly and slowly. Unlike Publication Formatted Series, this series contains only codings and markdown file.<br/>
+Larger project that requires weeks/months of works, in which I contribute partly and slowly. Unlike Publication Formatted Series, this series contains only codings and markdown file. Please let me know if you are looking for co-author in ML topics, or interest in sponsoring my unpublished articles<br/>
 1. [Google Search Scrapper](https://github.com/kitcalamus14/Google-Scrapper/blob/main/Scrapper.ipynb)
 3. Image to text recognition from scrap.  
 4. Do Politician speaks to win or speaks to serve?: A Descriptive Analytics aided by Machine Learning Algorithm. 
