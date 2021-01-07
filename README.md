@@ -39,7 +39,7 @@ Instead of specifying on the uses of certain ML method, this series focus on som
 1. [Methods that are capable of batch processing](https://github.com/kitcalamus14/ML-Methods-Capable-to-Batch-Processing/blob/main/MLs%20and%20Batch%20Processing.ipynb)<br/>
 2. [Dimensionality Reduction (PCA, RF, FA) for Data Visualization purpose](https://github.com/kitcalamus14/Dimensionality-Reduction-For-Data-Visualization/blob/main/DRforDV.ipynb)<br/>
 3. [Data Transformation: pupose and usage](https://github.com/kitcalamus14/Datat-Transformation--Purpose-and-Usage/blob/main/Data%20Transformation%20Usage%20and%20Purpose.ipynb)<br/>
-4. Missing Value inputation using various techniques<br/>
+4. [Random and non-random missing Value imputation using statistical and ML methods](https://github.com/kitcalamus14/missing-value-imputation/blob/main/Missing%20value%20Imputation.ipynb)<br/>
 5. Small talk: The differences between various ML methods<br/>
 6. Complex Data Pivotting using Python Pandas<br/>
 
