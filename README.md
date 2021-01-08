@@ -40,7 +40,7 @@ Tensorflow and Keras on its own, is huge enough to talk about as a series. This 
 Instead of adopting the readily available package for machine learning, this series intended to build machine learning algorithm from bottom up. The purpose is to learn and understand the complex mathematical methods behind the method as well as reduce the dependencies.
 
 
-[Archived](https://github.com/kitcalamus14/archived-portfolio/blob/main/README.md)
+[Archived](https://github.com/kitcalamus14/archived-portfolio/blob/main/README.md) I achived some series and articles over here to prevent overclouding.
 
 <!--
 **kitcalamus14/kitcalamus14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
