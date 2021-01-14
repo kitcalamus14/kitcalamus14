@@ -17,7 +17,7 @@ Larger project that requires weeks/months of works, in which I contribute partly
 
 #### <ins>Publication / Assignment Formatted Series</ins>
 Similar to Project Series but formatted according to certain publisher requirements, included writing part such as literature review, methodology, result etc. Please contact me at [Linkedin](https://www.linkedin.com/in/chun-kit-tan-b13747151/) if you are looking for co-author in your ML topics, or interested in sponsoring my unpublished articles
-1. (Publisher Editorial Reviewing, will update link soon) K Means Clustering on Customer Profiling Using LRFMP Model
+1. (Publisher Accepted Journal Article, will update link soon) K Means Clustering on Customer Profiling Using LRFMP Model
 2. [(Unpublished) Quantitative Systematic Literature Review Using Text Mining and Latent Dirichlet Allocation Using Orange](https://github.com/kitcalamus14/Text-Mining-and-Latent-Dirichlet-Allocation-Using-Orange/blob/main/Current%20State-of-the-art%20of%20Research%20in%20Data%20Governance%20(Revised)%20Tan%20Chun%20Kit.pdf)
 3. [(Unpublished) Hadoop Parrellel Processing Comparison: Hadoop MapReduce vs Pig](https://github.com/kitcalamus14/Hadoop-MapReduce-and-Pig/blob/main/Capabilities%20Hadoop%20F2.pdf)
 4. [(Assignment) Utilizing Hadoop and Power BI for Machine Learning and Data Visualiation Using Online Streaming Service Dataset](https://github.com/kitcalamus14/The-Application-of-Hadoop-on-Online-Streaming-Service-Provider-Industry/blob/main/CC%20GROUP%20COMPILING%20V2.docx)
