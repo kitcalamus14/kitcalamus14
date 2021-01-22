@@ -11,10 +11,11 @@ Please contact me on [Linkedin](https://www.linkedin.com/in/chun-kit-tan-b137471
 #### <ins>Project Series</ins>
 Larger project that requires weeks/months of works, in which I contribute partly and slowly. Unlike Publication Formatted Series, this series contains only codings and markdown file. <br/>
 1. [Stock AI](https://github.com/kitcalamus14/stock-ai/tree/main) This is a large project which I involved many mini projects, please head to the readme within the repository for more detail.
-2. [Google Search Scrapper](https://github.com/kitcalamus14/Google-Scrapper/blob/main/Scrapper.ipynb)
-3. Interactive Data Visualization
-4. Image to text recognition from scrap.  
-5. Do Politician speaks to win or speaks to serve?: A Descriptive Analytics aided by Machine Learning Algorithm. 
+2. I Want To Be a Medium Author: An Analysis on Reader Preferences
+3. [Google Search Scrapper](https://github.com/kitcalamus14/Google-Scrapper/blob/main/Scrapper.ipynb)
+4. Interactive Data Visualization
+5. Image to text recognition from scrap.  
+6. Do Politician speaks to win or speaks to serve?: A Descriptive Analytics aided by Machine Learning Algorithm. 
 
 #### <ins>Publication / Assignment Formatted Series</ins>
 Similar to Project Series but formatted according to certain publisher requirements, included writing part such as literature review, methodology, result etc. Please contact me at [Linkedin](https://www.linkedin.com/in/chun-kit-tan-b13747151/) if you are looking for co-author in your ML topics, or interested in sponsoring my unpublished articles
