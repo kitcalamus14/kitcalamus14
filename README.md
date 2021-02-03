@@ -10,7 +10,7 @@ Please contact me on [Linkedin](https://www.linkedin.com/in/chun-kit-tan-b137471
 ### Portfolio:
 #### <ins>Project Series</ins>
 Larger project that requires weeks/months of works, in which I contribute partly and slowly. Unlike Publication Formatted Series, this series contains only codings and markdown file. <br/>
-1. [Stock AI](https://github.com/kitcalamus14/stock-ai/tree/main) This is a large project which I involved many mini projects, please head to the readme within the repository for more detail.
+1. [Stock AI](https://github.com/kitcalamus14/stock-ai/tree/main)(multi-project)
 2. [Google Search Scrapper](https://github.com/kitcalamus14/Google-Scrapper/blob/main/Scrapper.ipynb)
 3. I Want To Be a Medium Author: An Analysis on Reader Preferences
 4. You Want to be a Youtuber: Factors that Affect Video View Rate
@@ -31,7 +31,7 @@ Instead of specifying on the uses of certain ML method, this series focus on som
 3. [Data Transformation: Pupose and Usage](https://github.com/kitcalamus14/Datat-Transformation--Purpose-and-Usage/blob/main/Data%20Transformation%20Usage%20and%20Purpose.ipynb)<br/>
 4. [Random and Non-Random Missing Value Imputation Using Statistical and ML Methods](https://github.com/kitcalamus14/missing-value-imputation/blob/main/Missing%20value%20Imputation.ipynb)<br/>
 5. [Spark SQL Demonstration on Databrick Cloud Platform](https://github.com/kitcalamus14/Spark-SQL-Course-Demonstration/blob/main/README.md) <br/>
-6. Complex Data Pivotting using Python Pandas<br/>
+6. Complex Data Pivotting using Python Pandas<br/> (multi-project)
 
 
 #### <ins>Tensorflow / Keras Series</ins>
