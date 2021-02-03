@@ -11,8 +11,9 @@ Please contact me on [Linkedin](https://www.linkedin.com/in/chun-kit-tan-b137471
 #### <ins>Project Series</ins>
 Larger project that requires weeks/months of works, in which I contribute partly and slowly. Unlike Publication Formatted Series, this series contains only codings and markdown file. <br/>
 1. [Stock AI](https://github.com/kitcalamus14/stock-ai/tree/main) This is a large project which I involved many mini projects, please head to the readme within the repository for more detail.
-2. I Want To Be a Medium Author: An Analysis on Reader Preferences
-3. [Google Search Scrapper](https://github.com/kitcalamus14/Google-Scrapper/blob/main/Scrapper.ipynb)
+2. [Google Search Scrapper](https://github.com/kitcalamus14/Google-Scrapper/blob/main/Scrapper.ipynb)
+3. I Want To Be a Medium Author: An Analysis on Reader Preferences
+4. You Want to be a Youtuber: Factors that Affect Video View Rate
 4. Interactive Data Visualization
 5. Image to text recognition from scrap.  
 6. Do Politician speaks to win or speaks to serve?: A Descriptive Analytics aided by Machine Learning Algorithm. 
