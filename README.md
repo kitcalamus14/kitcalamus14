@@ -31,7 +31,8 @@ Instead of specifying on the uses of certain ML method, this series focus on som
 3. [Data Transformation: Pupose and Usage](https://github.com/kitcalamus14/Datat-Transformation--Purpose-and-Usage/blob/main/Data%20Transformation%20Usage%20and%20Purpose.ipynb)<br/>
 4. [Random and Non-Random Missing Value Imputation Using Statistical and ML Methods](https://github.com/kitcalamus14/missing-value-imputation/blob/main/Missing%20value%20Imputation.ipynb)<br/>
 5. [Spark SQL Demonstration on Databrick Cloud Platform](https://github.com/kitcalamus14/Spark-SQL-Course-Demonstration) (multi-project)<br/>
-6. Complex Data Pivotting using Python Pandas<br/>
+6.[ 2GB JSON to DataFrame to SQL: An ETL Process Using Large Data with Small Setup with the Aid of Row Looping](https://github.com/kitcalamus14/Large_data_processing/blob/main/reading_large_json.ipynb)<br/>
+7. Complex Data Pivotting using Python Pandas<br/>
 
 
 #### <ins>Tensorflow / Keras Series</ins>
