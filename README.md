@@ -4,7 +4,7 @@ Amongst the projects, I divided it into multiple series, in which some are short
 I will be consistently updating and adding project on both small and large scale, which may also include some I develop and update continuously in a longer timeframe.
 If there is no embeded link in the project index, that means it's under work, please come back later.<br/><br/>
 Please contact me on [Linkedin](https://www.linkedin.com/in/chun-kit-tan-b13747151/) if you are looking to hire a data scientist.
-
+I solve logic questions using Python on Hackerrank, Check me out on [Hackerrank](https://www.hackerrank.com/kitcalamus94) if interested
 ---
 
 ### Portfolio:
