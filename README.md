@@ -12,7 +12,7 @@ Check me out on [Hackerrank](https://www.hackerrank.com/kitcalamus94), where I s
 Larger project that requires weeks/months of works, in which I contribute partly and slowly. Unlike Publication Formatted Series, this series contains only codings and markdown file. <br/>
 1. [Stock AI](https://github.com/kitcalamus14/stock-ai/tree/main) (multi-project)
 2. [Google Search Scrapper](https://github.com/kitcalamus14/Google-Scrapper/blob/main/Scrapper.ipynb)
-3. I Want To Be a Medium Author: An Analysis on Reader Preferences
+3. [I Want To Be a Medium Author: An Analysis on Reader Preferences](https://github.com/kitcalamus14/Medium-Analysis/blob/main/MediumAnalysis.ipynb)
 4. You Want to be a Youtuber: Factors that Affect Video View Rate
 5. Do Politician speaks to win or speaks to serve?: A Descriptive Analytics aided by Text Mining
 
